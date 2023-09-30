@@ -1,1 +1,1 @@
-# django
+# newproject
